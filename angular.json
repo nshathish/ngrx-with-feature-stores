@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngrx-with-feature-stores"
+    }
+  },
+  "defaultProject": "ngrx-with-feature-stores",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
